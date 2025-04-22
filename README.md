@@ -1,13 +1,21 @@
 ## HOLA SOY ANDRES FELIPE CETINA GALVEZ 👋
 
 <p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/Andres Cetina" target="blank"><img align="center" src="https://www.facebook.com/andres.cetina.710?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
+  <a href="https://www.tiktok.com/@tu_usuario_tiktok" target="blank">
+    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@tu_usuario_tiktok" />
+  </a>
+  <a href="https://fb.com/AndresCetina" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="AndresCetina" />
+  </a>
+  <a href="mailto:cetinaa715@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="cetinaa715@gmail.com" />
+  </a>
+  <a href="https://wa.me/573103680577" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3103680577" />
+  </a>
+</p>
 <br>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
