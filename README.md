@@ -1,2 +1,40 @@
 
-## HOLA SOY ANDRES FELIPE CETINA GALVEZ 👋 <p align="left"> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Andres Cetina) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe_cadc3143) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@felipe_cadc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cetinaa715@gmail.com)  <a  /> </a> </p> <br> <h2>Sobre mi 😃</h2> <!--Intro start--> <p align="left"> 🎓 Tecnico de Programacion de Software 👦 Soy un programador joven y apasionado de 17 años de colombia,estoy emocionado por la oportunidad de trabajar en algo relacionado a programación. Desde temprana edad me a gustado todo lo relacionado a programación, sistemas, etc. Me gusta mucho aprender y ofrecer los conociemientos que se, tengo mucho entusiasmo de aprender y ser el mejor programador. 🤪 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas. 📝 roles en el ámbito: desarrollador...Trabajdor...Estudiante... y en un futuro el mejor programador e ingeniero. 📫 Contacto: **cetinaa715@gmail.com** <!--Intro end--> </p> <br> <h2 >Tecnologías conocidas👨🏻‍💻</h2> <!--tech stack icons--> <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,php,py,css,html,mysql,git,github,vscode" /> </a> </p> <br>
+## HOLA SOY ANDRES FELIPE CETINA GALVEZ 👋
+
+<p align="left">
+  <a href="https://www.tiktok.com/@felipe_cadc" target="blank">
+    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.facebook.com/andres.cetina.710" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:cetinaa715@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/573103680577" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+## Sobre mí 😃
+
+🎓 Técnico en Programación de Software  
+👦 Soy un programador joven y apasionado de 17 años de Colombia.  
+💻 Emocionado por trabajar en el mundo de la programación.  
+👨‍💻 Desde pequeño me ha encantado todo lo relacionado con sistemas y desarrollo.  
+📚 Me encanta aprender y compartir mis conocimientos.  
+🚀 Ambicioso y motivado para ser el mejor ingeniero de sistemas.  
+📝 Roles: Desarrollador, Estudiante, Futuro Ingeniero.  
+📫 Contacto: **cetinaa715@gmail.com**
+
+---
+
+## Tecnologías conocidas 👨🏻‍💻
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,mysql,git,github,vscode" />
+  </a>
+</p>
