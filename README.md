@@ -21,11 +21,12 @@
 <p align="left">
 🎓 Aprendiz SENA de Programacion de Software
 
-👦 Estudiante y trabajador con ganas de aprender ingeniera de sistemas y ingenieria de software y todo lo relacionado a sistemas
+👦 Soy un programador joven y apasionado de 17 años de colombia,estoy emocionado por la oportunidad de trabajar en algo relacionado a programación. Desde temprana edad me a gustado todo lo relacionado a programación, sistemas, etc.
+Me gusta mucho aprender y ofrecer los conociemientos que se, tengo mucho entusiasmo de aprender y ser el mejor programador.
 
-💻 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas
+🤪 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas.
 
-📝 roles en el ámbito: desarrollador...Trabajdor...Estudiante... y en un futuro el mejor programador e ingeniero
+📝 roles en el ámbito: desarrollador...Trabajdor...Estudiante... y en un futuro el mejor programador e ingeniero.
 
 📫 Contacto: **cetinaa715@gmail.com**
 <!--Intro end-->
