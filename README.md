@@ -18,5 +18,17 @@
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
+<p align="left">
+🎓 Aprendiz SENA de Programacion de Software
 
+👦 Estudiante y trabajador con ganas de aprender ingeniera de sistemas y ingenieria de software y todo lo relacionado a sistemas
+
+💻 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas
+
+📝 roles en el ámbito: desarrollador...Trabajdor...Esrudiante... y en un futuro el mejor programador e ingeniero
+
+📫 Contacto: **cetinaa715@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
 
