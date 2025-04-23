@@ -4,7 +4,7 @@
   <a href="https://www.tiktok.com/@tu_usuario_tiktok" target="blank">
     <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@tu_usuario_tiktok" />
   </a>
-  <a href="https://fb.com/AndresCetina" target="blank">
+  <a href="https://fb.com/https://www.facebook.com/andres.cetina.710" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="AndresCetina" />
   </a>
   <a href="mailto:cetinaa715@gmail.com" target="blank">
