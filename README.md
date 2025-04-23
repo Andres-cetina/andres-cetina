@@ -25,10 +25,17 @@
 
 💻 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas
 
-📝 roles en el ámbito: desarrollador...Trabajdor...Esrudiante... y en un futuro el mejor programador e ingeniero
+📝 roles en el ámbito: desarrollador...Trabajdor...Estudiante... y en un futuro el mejor programador e ingeniero
 
 📫 Contacto: **cetinaa715@gmail.com**
 <!--Intro end-->
   </p>
 <br>
-
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,mysql,git,github,vscode,linux,ps&perline=12" />
+  </a>
+</p>
+<br>
