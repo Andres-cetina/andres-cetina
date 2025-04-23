@@ -1,42 +1,18 @@
 ## HOLA SOY ANDRES FELIPE CETINA GALVEZ 👋
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Andres Cetina) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe_cadc3143) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@felipe_cadc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cetinaa715@gmail.com) 
 
-<p align="left">
-  <a href="https://www.tiktok.com/tiktok.com/@felipe_cadc" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@tu_usuario_tiktok" />
-  </a>
-  <a href="https://fb.com/https:https://www.facebook.com/andres.cetina.710" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="AndresCetina" />
-  </a>
-  <a href="mailto:cetinaa715@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="cetinaa715@gmail.com" />
-  </a>
-  <a href="https://wa.me/573103680577" target="blank">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="3103680577" />
-  </a>
-</p>
-<br>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Andres Cetina&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Andres Cetina&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres Cetina&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-<p align="left">
-🎓 Tecnico de Programacion de Software
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Andres Cetina&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-👦 Soy un programador joven y apasionado de 17 años de colombia,estoy emocionado por la oportunidad de trabajar en algo relacionado a programación. Desde temprana edad me a gustado todo lo relacionado a programación, sistemas, etc.
-Me gusta mucho aprender y ofrecer los conociemientos que se, tengo mucho entusiasmo de aprender y ser el mejor programador.
+---
+[![](https://visitcount.itsvg.in/api?id=Andres Cetina&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🤪 Ambicioso por el exito, y porque me vaya bien en la vida, interesado en aprender sistemas y ser el mejor en ingenieria de sistemas.
-
-📝 roles en el ámbito: desarrollador...Trabajdor...Estudiante... y en un futuro el mejor programador e ingeniero.
-
-📫 Contacto: **cetinaa715@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,mysql,git,github,vscode" />
-  </a>
-</p>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
