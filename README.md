@@ -19,7 +19,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 <p align="left">
-🎓 Aprendiz SENA de Programacion de Software
+🎓 Tecnico de Programacion de Software
 
 👦 Soy un programador joven y apasionado de 17 años de colombia,estoy emocionado por la oportunidad de trabajar en algo relacionado a programación. Desde temprana edad me a gustado todo lo relacionado a programación, sistemas, etc.
 Me gusta mucho aprender y ofrecer los conociemientos que se, tengo mucho entusiasmo de aprender y ser el mejor programador.
