@@ -24,7 +24,7 @@
 
 🎓 Técnico en Programación de Software  
 
-👦 Soy un programador joven y apasionado de 17 años de Colombia.  
+👦 Soy un programador joven y apasionado.  
 
 💻 Emocionado por trabajar en el mundo de la programación.  
 
